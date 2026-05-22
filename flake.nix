@@ -1,5 +1,5 @@
 {
-  description = "Golang programming language parser";
+  description = "MonadPay - safe banking app";
   nixConfig = {
     allow-import-from-derivation = true;
   };

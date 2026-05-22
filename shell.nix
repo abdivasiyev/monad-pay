@@ -12,7 +12,7 @@
   ...
 }:
 pkgs.stdenv.mkDerivation {
-  name = "golang-hs";
+  name = "monad-pay";
 
   # Build time dependencies
   nativeBuildInputs = [
